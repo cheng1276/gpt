@@ -1,0 +1,1 @@
+{"name":"tmh-literature-chatgpt-app","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node src/server.js","check":"node --check src/server.js"},"dependencies":{"@modelcontextprotocol/sdk":"^1.18.0","express":"^5.1.0","zod":"^3.25.0"},"engines":{"node":">=20"}}
